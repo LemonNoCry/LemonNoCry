@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=软件设计有两种方式：一种方式是，使软件过于简单，明显没有缺陷；另一种方式是，使软件过于复杂，没有明显的缺陷。&author=Tony Hoare" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E6%9C%89%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F%EF%BC%9A%E4%B8%80%E7%A7%8D%E6%96%B9%E5%BC%8F%E6%98%AF%EF%BC%8C%E4%BD%BF%E8%BD%AF%E4%BB%B6%E8%BF%87%E4%BA%8E%E7%AE%80%E5%8D%95%EF%BC%8C%E6%98%8E%E6%98%BE%E6%B2%A1%E6%9C%89%E7%BC%BA%E9%99%B7%EF%BC%9B%E5%8F%A6%E4%B8%80%E7%A7%8D%E6%96%B9%E5%BC%8F%E6%98%AF%EF%BC%8C%E4%BD%BF%E8%BD%AF%E4%BB%B6%E8%BF%87%E4%BA%8E%E5%A4%8D%E6%9D%82%EF%BC%8C%E6%B2%A1%E6%9C%89%E6%98%8E%E6%98%BE%E7%9A%84%E7%BC%BA%E9%99%B7%E3%80%82&author=Tony%20Hoare" />
 </div>
 
 ## 🚀 About Me
