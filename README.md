@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Developer;Backend+%2F+Fullstack+Engineer;Open+Source+Builder;Always+Shipping+Elegant+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Developer;Backend+%2F+Fullstack+Engineer;Open+Source+Builder;Always+Shipping+Elegant+Code" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=软件设计有两种方式：一种方式是，使软件过于简单，明显没有缺陷；另一种方式是，使软件过于复杂，没有明显的缺陷。&author=Tony Hoare" />
 </div>
 
 ## 🚀 About Me
