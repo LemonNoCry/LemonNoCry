@@ -14,8 +14,6 @@
 - ASP.NET Core、.Net Core、.Net Framework、Winform、WPF等
 ```
 
----
-
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
